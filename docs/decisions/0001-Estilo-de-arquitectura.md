@@ -19,7 +19,7 @@ Necesitamos recolectar los eventos que se generan en los diferentes dispositivos
 
 ## Decision Outcome
 
-Chosen option: ""
+Chosen option: "Event driven"
 
 ### Positive Consequences
 
